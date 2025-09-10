@@ -116,7 +116,7 @@ export default function ProductPage({ initialProducts, searchQuery }) {
               <div key={product.id} className="product-card">
                 <img src={product.image} alt={product.title} />
                 <h3>{product.title}</h3>
-                <p>₹{(product.price * 82).toFixed(0)}</p>
+                <p>₹{(product.price * 86).toFixed(0)}</p>
               </div>
             ))}
           </div>

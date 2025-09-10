@@ -9,7 +9,7 @@ export const metadata = {
   openGraph: {
     title: "ShopKart - Product Listing",
     description: "Browse products on ShopKart with SSR, SEO, and responsive layout using Next.js App Router.",
-    url: "https://shopkart-demo.netlify.app",
+    url: "https://appscrip-task-praveen-git-main-praveen-ks-projects-7fbabb68.vercel.app?_vercel_share=IQzMBrn3m0wVhTBI6ts4rYfJs8nvo394",
     siteName: "ShopKart",
     locale: "en_IND",
     type: "website",
